@@ -7,7 +7,7 @@ I am a Computer Science freshman at the Brazilian University of Vila Velha
 - 🌱 I'm currently learning HTML, CSS, JavaScript and SQL.  
 - 🍅 I have a special interst in Front-End development and UX/UI Design.  
 - 🔭 I'm currenrly not looking for a job since I'm a freshman, but soon I will.  
-- ⚡ Fun fact: I'm also a digital illustrator! You can comission me by E-mailing me at annmochii40@gmail.com  
+- ⚡ Fun fact: I'm also a digital illustrator! You can comission me via E-mail at annmochii40@gmail.com  
 
 ## How to reach me:  
 
