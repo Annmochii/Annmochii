@@ -24,7 +24,7 @@ I am a Computer Science freshman at the Brazilian University of Vila Velha
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annmochii&theme=dracula&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annmochii&theme=dracula&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 [![AnnMochii](https://github-readme-stats.vercel.app/api?username=Annmochii&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
