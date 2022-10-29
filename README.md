@@ -1,4 +1,4 @@
-> "Go forth on your path, as it exists only through your walking." 
+> *"Go forth on your path, as it exists only through your walking."*
 
 ### Hi there, I'm Anna 👋  
 
