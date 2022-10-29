@@ -22,13 +22,6 @@ I am a Computer Science freshman at the Brazilian University of Vila Velha
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annmochii&theme=dracula&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![AnnMochii](https://github-readme-stats.vercel.app/api?username=Annmochii&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
 ## You can find me at:  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-maria-da-silva-816a9b239/)
@@ -36,3 +29,9 @@ I am a Computer Science freshman at the Brazilian University of Vila Velha
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/annmochii/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/annmochii?tt_content=embed_visit_channel&tt_medium=embed)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/annmochii)
+
+
+---
+
+[![AnnMochii](https://github-readme-stats.vercel.app/api?username=Annmochii&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annmochii&theme=dracula&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
