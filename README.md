@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Anna 👋  
 
-I am a Computer Science freshman at the Brazilian University of Vila Velha  
+I am a Computer Science freshman at the Brazilian University of Vila Velha and I also study UX/UI Design at the Britsh Scholl of Creative Arts and Technology.   
 
 - 🌱 I'm currently learning HTML, CSS, JavaScript and SQL.  
 - 🍅 I have a special interst in Front-End development and UX/UI Design.  
