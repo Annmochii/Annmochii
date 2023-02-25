@@ -6,7 +6,7 @@ I am a Computer Science student at the Brazilian University of Vila Velha and I 
 
 - 🌱 I'm currently learning C and Java.  
 - 🍅 I have a special interst in Front-End development and UX/UI Design.  
-- 🔭 I'm currenrly not looking for a job since I'm a freshman, but soon I will.  
+- 🔭 I'm currently not looking for a job since I'm a freshman, but soon I will.  
 - ⚡ **Fun fact:** I'm also a digital illustrator! You can comission me via E-mail at annmochii40@gmail.com  
 
 ## Currently learning:
