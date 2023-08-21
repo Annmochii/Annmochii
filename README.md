@@ -4,7 +4,7 @@
 
 I am a Computer Science student at the Brazilian University of Vila Velha and I also study UX/UI Design at the Britsh Scholl of Creative Arts and Technology.   
 
-- 🌱 I'm currently learning C and Java.  
+- 🌱 I'm currently learning React Native and C.  
 - 🍅 I have a special interst in Front-End development and UX/UI Design.  
 - 🔭 I'm currently not looking for a job since I'm in the beginning of the course, but soon I will.  
 - ⚡ **Fun fact:** I'm also a digital illustrator! You can comission me via E-mail at annmochii40@gmail.com  
