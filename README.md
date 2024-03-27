@@ -4,9 +4,9 @@
 
 I am a Computer Science student at the Brazilian University of Vila Velha and I also study UX/UI Design at the Britsh Scholl of Creative Arts and Technology.   
 
-- 🌱 I'm currently learning React Native and C.  
+- 🌱 I'm currently learning C# and C.  
 - 🍅 I have a special interst in Front-End development and UX/UI Design.  
-- 🔭 I'm currently not looking for a job since I'm in the beginning of the course, but soon I will.  
+- 🔭 I'm currently looking for a job! My socials are right below!  
 - ⚡ **Fun fact:** I'm also a digital illustrator! You can comission me via E-mail at annmochii40@gmail.com  
 
 ## Currently learning:
@@ -14,11 +14,14 @@ I am a Computer Science student at the Brazilian University of Vila Velha and I 
 > Front-End Development:  
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   
 > Languages:  
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 > Databases development:  
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
