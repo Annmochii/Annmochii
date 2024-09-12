@@ -6,7 +6,7 @@ I am a Computer Science student at the Brazilian University of Vila Velha and I 
 
 - 🌱 I'm currently learning Phytoh and Typescript.  
 - 🍅 I have a special interst in Front-End development and UX/UI Design.  
-- 🔭 I'm currently looking for a job! My socials are right below and you can also contact me via E-mail at anna.maria22lima@gmail.com
+- 🔭 I'm currently looking for a job! My socials are right below!
 - ⚡ **Fun fact:** I'm also a digital illustrator! You can comission me via E-mail at annmochii40@gmail.com  
 lim
 ## Currently learning:
@@ -35,7 +35,7 @@ lim
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-maria-da-silva-816a9b239/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/annmochii)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/annmochii/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/annmochii?tt_content=embed_visit_channel&tt_medium=embed)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:anna.maria22lima@gmail.com)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/annmochii)
 
 
