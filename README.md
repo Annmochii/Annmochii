@@ -7,7 +7,7 @@ I am a Computer Science student at the Brazilian University of Vila Velha and I 
 - 🌱 I'm currently learning Phytoh and Typescript.  
 - 🍅 I have a special interst in Front-End development and UX/UI Design.  
 - 🔭 I'm currently looking for a job! My socials are right below!
-- ⚡ **Fun fact:** I'm also a digital illustrator! You can comission me via E-mail at:
+- ⚡ **Fun fact:** I'm also a digital illustrator! You can comission me via E-mail at:  
     [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:annmochii40@gmail.com)
   
 ## Currently learning:
