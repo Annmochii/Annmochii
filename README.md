@@ -6,9 +6,9 @@ I am a Computer Science student at the Brazilian University of Vila Velha and I 
 
 - 🌱 I'm currently learning Phytoh and Typescript.  
 - 🍅 I have a special interst in Front-End development and UX/UI Design.  
-- 🔭 I'm currently looking for a job! My socials are right below!  
+- 🔭 I'm currently looking for a job! My socials are right below and you can also contact me via E-mail at anna.maria22lima@gmail.com
 - ⚡ **Fun fact:** I'm also a digital illustrator! You can comission me via E-mail at annmochii40@gmail.com  
-
+lim
 ## Currently learning:
 
 > Front-End Development:  
