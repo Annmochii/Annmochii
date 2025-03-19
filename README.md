@@ -4,7 +4,7 @@
 
 I am a Computer Science student at the Brazilian University of Vila Velha and I also study UX/UI Design at the Britsh Scholl of Creative Arts and Technology.   
 
-- 🌱 I'm currently learning Phytoh and Typescript.  
+- 🌱 I'm currently learning data structure in C.
 - 🍅 I have a special interst in Front-End development and UX/UI Design.  
 - 🔭 I'm currently looking for a job! My socials are right below!
 - ⚡ **Fun fact:** I'm also a digital illustrator! You can comission me via E-mail at:  
