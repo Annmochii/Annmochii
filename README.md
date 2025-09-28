@@ -4,7 +4,7 @@
 
 I am a Computer Science student at the Brazilian University of Vila Velha and I also study UX/UI Design at the Britsh Scholl of Creative Arts and Technology.   
 
-- 🌱 I'm currently learning data structure in C.
+- 🌱 I'm currently learning concurrent and distributed programming in Python
 - 🍅 I have a special interst in Front-End development and UX/UI Design.  
 - 🔭 I'm currently looking for a job! My socials are right below!
 - ⚡ **Fun fact:** I'm also a digital illustrator! You can comission me via E-mail at:  
@@ -23,6 +23,7 @@ I am a Computer Science student at the Brazilian University of Vila Velha and I 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 > Databases development:  
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
